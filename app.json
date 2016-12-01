@@ -1,0 +1,14 @@
+{
+  "name": "shadowsocks heroku",
+  "description": "shadowsocks heroku",
+  "env": {
+    "METHOD": {
+      "description": "blabla",
+      "value": "rc4"
+    },
+    "KEY": {
+      "description": "blabla",
+      "value": "foobar"
+    }
+  }
+}
